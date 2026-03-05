@@ -3,8 +3,6 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer science and Engineering student at Universidad PÃºblica De Navarra. C, Python, Javascript, Java and SQL are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
@@ -27,7 +25,7 @@ I am an undergraduate Computer science and Engineering student at Universidad PÃ
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=MakiBuu &show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakiBuu &layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=MakiBuu&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakiBuu&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
