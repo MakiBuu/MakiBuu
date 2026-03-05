@@ -1,12 +1,9 @@
 # Hi there 👋, Maren here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MakiBuu.repoName) [![GitHub followers](https://img.shields.io/github/followers/MakiBuu.svg?style=social&label=Follow)](https://github.com/MakiBuu?tab=followers)<br/>
-
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer science and Engineering student at Universidad Pública De Navarra. C, Python, Javascript, Java and SQL are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+* **I am passionate about Artificial Intelligence, Data Analysis, and Computer Vision**
 - 🌱 I’m currently learning ...
   - Machine Learning & Deep Learning
   - OpenCV and Computer Vision frameworks
