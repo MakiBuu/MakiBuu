@@ -1,7 +1,9 @@
 # Hi there ðŸ‘‹, Maren here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MakiBuu.repoName) [![GitHub followers](https://img.shields.io/github/followers/MakiBuu.svg?style=social&label=Follow)](https://github.com/MakiBuu?tab=followers)<br/>
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -21,11 +23,11 @@ I am an undergraduate Computer science and Engineering student at Universidad PÃ
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakiiBuu" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakiBuu " alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=MakiBuu&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakiiBuu&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=MakiBuu &show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakiBuu &layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
