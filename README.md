@@ -22,10 +22,6 @@ I am an undergraduate Computer science and Engineering student at Universidad PÃ
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakiBuu" alt="GitHub Stats" /> <br/><br/>
-  
 </div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=MakiBuu&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakiBuu&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
