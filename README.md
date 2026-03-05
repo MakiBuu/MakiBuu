@@ -21,7 +21,7 @@ I am an undergraduate Computer science and Engineering student at Universidad PÃ
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakiBuu " alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakiBuu" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
