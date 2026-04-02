@@ -1,24 +1,50 @@
-# Hi there 👋, Maren here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MakiBuu.repoName) [![GitHub followers](https://img.shields.io/github/followers/MakiBuu.svg?style=social&label=Follow)](https://github.com/MakiBuu?tab=followers)<br/>
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<div align="center">
 
-I am an undergraduate Computer science and Engineering student at Universidad Pública De Navarra. C, Python, Javascript, Java and SQL are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am passionate about Artificial Intelligence, Data Analysis, and Computer Vision**
-- 🌱 I’m currently learning ...
-  - Machine Learning & Deep Learning
-  - OpenCV and Computer Vision frameworks
-  - Data Analytics with Python (Pandas, NumPy, Matplotlib)
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything in AI, programming, or data analysis—I’m happy to help!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="marensalanova11@gmail.com">marensalanova11@gmail.com</a>
+# Maren Salanova
 
-<h2>👀 My github Stats</h2>
+**Computer Engineering · Intelligent Systems · Universidad Pública de Navarra**
 
-<div>
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakiBuu" alt="GitHub Stats" /> <br/><br/>
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MakiBuu.MakiBuu&color=6e40c9&style=flat-square)](https://github.com/MakiBuu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6e40c9?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maren-salanova-florian-677295375/)
+[![Email](https://img.shields.io/badge/Email-Contact-6e40c9?style=flat-square&logo=gmail)](mailto:marensalanova11@gmail.com)
+
 </div>
 
----------------------------------------------------------------------------------------------------------------------
+---
+
+## About
+
+AI/ML Engineering student with a focus on Computer Vision and Deep Learning.
+Interested in building systems that turn raw data into something meaningful.
+
+---
+
+## Stack
+
+**Languages** &nbsp;·&nbsp; Python · C · JavaScript · SQL  
+**ML / CV** &nbsp;·&nbsp; PyTorch · TensorFlow · OpenCV · MONAI · scikit-learn  
+**Tools** &nbsp;·&nbsp; Git · Linux · LaTeX · Pandas · NumPy
+
+---
+
+## Selected Work
+
+| Project | Description | Stack |
+|---|---|---|
+| [PrediCT GSoC 2026](https://github.com/MakiBuu/predict-gsoc2026) | Cardiac segmentation & radiomics for ML4SCI | PyTorch · MONAI · SimpleITK |
+
+---
+
+## Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MakiBuu&theme=github-dark&hide_border=true&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9)](https://github.com/MakiBuu)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to internships in AI/ML · Europe · 2025–2026</sub>
+</div>
