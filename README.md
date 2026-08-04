@@ -31,7 +31,7 @@ Interested in building systems that turn raw data into something meaningful.
 
 | Project | Description | Stack |
 |---|---|---|
-| [PrediCT GSoC 2026](https://github.com/MakiBuu/predict-gsoc2026) | Cardiac segmentation & radiomics for ML4SCI | PyTorch · MONAI · SimpleITK |
+| 
 
 ---
 
