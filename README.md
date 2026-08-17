@@ -5,7 +5,6 @@
 **Computer Engineering · Intelligent Systems · Universidad Pública de Navarra**
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MakiBuu.MakiBuu&color=6e40c9&style=flat-square)](https://github.com/MakiBuu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6e40c9?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maren-salanova-florian-677295375/)
 [![Email](https://img.shields.io/badge/Email-Contact-6e40c9?style=flat-square&logo=gmail)](mailto:marensalanova11@gmail.com)
 
 </div>
